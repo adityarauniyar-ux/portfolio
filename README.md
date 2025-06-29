@@ -12,7 +12,7 @@
   <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
   <div align="center">
     Visit My portfolio Website on 
-    <a href="https://adityarauniyar.vercel.app"><b>YouTube</b></a>
+    <a href="https://adityarauniyar.vercel.app"><b>adityarauniyar.vercel.app</b></a>
   </div>
   <br />
 </div>
